@@ -1,0 +1,12 @@
+.busca{
+  background-color:#E6E6E6;
+  width: 25rem;
+  height: 2.5rem;
+  grid-area: buscacontainer;
+  margin-top: -180rem;
+  text-align: center;
+  margin-left: 108rem;
+  color: #4F4F4F;
+  font-family:Verdana;
+  font-size: 1.2rem;
+}
